@@ -9,7 +9,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 Using [https://www.genmymodel.com/](https://www.genmymodel.com/), I created an ERD diagram of all 6 data files. 
 
-INSERT DIAGRAM HERE
+![diagram](/images/ERD_diagram)
 
 ### Data Engineering
 
