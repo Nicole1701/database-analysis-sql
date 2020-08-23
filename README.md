@@ -9,7 +9,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 Using [https://www.genmymodel.com/](https://www.genmymodel.com/), I created an ERD diagram of all 6 data files. 
 
-![ERD](images/ERD_diagram.jpg)
+![ERD](images/ERD_diagram.jpeg)
 
 ### Data Engineering
 
@@ -26,6 +26,8 @@ Using the information from the table, I created a schema for each of the six CSV
 Once the database was complete, I ran generated queries on the following requests:
 
  1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+ ![Employee Details](images/q1_query.jpeg)
+ 
  2. List first name, last name, and hire date for employees who were hired in 1986.
  3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
  4. List the department of each employee with the following information: employee number, last name, first name, and department name.
