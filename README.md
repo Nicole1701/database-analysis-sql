@@ -29,11 +29,11 @@ Once the database was complete, I generated queries on the following requests:
 
  1. List the following details of each employee: employee number, last name, first name, sex, and salary
  
-![Employee Data](//images/q1_query.jpg)
+![Employee_Data](images/q1_query.jpeg)
  
  2. List first name, last name, and hire date for employees who were hired in 1986.
  
-![Hire Date](/images/q2_query.jpg)
+![Hire_Date](images/q2_query.jpeg)
  
  3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
  
@@ -49,15 +49,15 @@ Once the database was complete, I generated queries on the following requests:
  
  6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
  
-![Sales Department](images/q6_query.jpg)
+![Sales_Department](images/q6_query.jpg)
  
  7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
  
-![Sales and Development](images/q7_query.jpg)
+![Sales_and_Development](images/q7_query.jpg)
  
  8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
  
-![Last Name Frequency](images/q8_query.jpg)
+![Last_Name_Frequency](images/q8_query.jpg)
  
 
 ## Bonus Activity
