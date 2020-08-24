@@ -29,35 +29,35 @@ Once the database was complete, I generated queries on the following requests:
 
  1. List the following details of each employee: employee number, last name, first name, sex, and salary
  
-![Employee_Data](images/q1_query.jpeg)
+![Employee_Data](images/q1_query.JPG)
  
  2. List first name, last name, and hire date for employees who were hired in 1986.
  
-![Hire_Date](images/q2_query.jpeg)
+![Hire_Date](images/q2_query.JPG)
  
  3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
  
-![Manager](images\q3_query.jpg)
+![Manager](images\q3_query.JPG)
  
  4. List the department of each employee with the following information: employee number, last name, first name, and department name.
  
-![Department](images/q4_query.jpg)
+![Department](images/q4_query.JPG)
  
  5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
  
-![Hercules](images/q5_query.jpg)
+![Hercules](images/q5_query.JPG)
  
  6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
  
-![Sales_Department](images/q6_query.jpg)
+![Sales_Department](images/q6_query.JPG)
  
  7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
  
-![Sales_and_Development](images/q7_query.jpg)
+![Sales_and_Development](images/q7_query.JPG)
  
  8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
  
-![Last_Name_Frequency](images/q8_query.jpg)
+![Last_Name_Frequency](images/q8_query.JPG)
  
 
 ## Bonus Activity
