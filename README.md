@@ -37,7 +37,7 @@ Once the database was complete, I generated queries on the following requests:
  
  3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
  
-![Manager](images\q3_query.JPG)
+![Manager](images/q3_query.JPG)
  
  4. List the department of each employee with the following information: employee number, last name, first name, and department name.
  
@@ -69,12 +69,16 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 2. Create a histogram to visualize the most common salary ranges for employees.
 
+![Salary_Histogramn](images/Range_of_Employee_Salaries.png)
 
 3. Create a bar chart of average salary by title.
+
+![Salary_by_Title](images/Salary_by_Title.png)
 
 
 ### Epilogue
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
 
+![My_ID](images/my_id.png)
 
 
