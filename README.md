@@ -29,15 +29,15 @@ Once the database was complete, I generated queries on the following requests:
 
  1. List the following details of each employee: employee number, last name, first name, sex, and salary
  
-![Employee Data](images/q1_query.jpeg)
+![Employee Data](//images/q1_query.jpg)
  
  2. List first name, last name, and hire date for employees who were hired in 1986.
  
-![Hire Date](images/q2_query.jpg)
+![Hire Date](/images/q2_query.jpg)
  
  3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
  
-![Manager](images/q3_query.jpg)
+![Manager](images\q3_query.jpg)
  
  4. List the department of each employee with the following information: employee number, last name, first name, and department name.
  
