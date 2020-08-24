@@ -29,7 +29,7 @@ Once the database was complete, I generated queries on the following requests:
 
  1. List the following details of each employee: employee number, last name, first name, sex, and salary
  
- ![Employee Details](images/q1_query.jpg)
+ ![Employee Details](/images/q1_query.jpg)
  
  2. List first name, last name, and hire date for employees who were hired in 1986.
  
